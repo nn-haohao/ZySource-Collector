@@ -1,18 +1,3 @@
 {
-    "tbl_site": [
-        {
-            "key": "360资源站采集接口",
-            "name": "360资源站采集接口",
-            "api": "https://360zy.com/ct.zip|https://360zyzz.com/api.php/provide/vod/at/xml",
-            "playUrl": "",
-            "search": 1,
-            "group": "切片",
-            "status": true,
-            "type": 0,
-            "id": "1",
-            "isActive": true,
-            "resource": "",
-            "download": ""
-        }
-    ]
+    "tbl_site": []
 }
